@@ -34,6 +34,8 @@ Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that
  6. Data Visualization to create charts and custom sheets to show the insights
  7. Report/ Dashboard creation from start to end
 
+* Project Link-    https://drive.google.com/drive/folders/1i-PKN_acuAiVEpDyF0WEYPHcQRQBXndR?usp=drive_link
+
 * METADATA
 - File Extension - .xlsx
 - No of Rows -3.07 Million
