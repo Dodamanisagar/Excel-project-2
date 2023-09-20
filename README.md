@@ -39,7 +39,5 @@ Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that
 - No of Rows -3.07 Million
 - No of Fields - 21
 
-* Data Download - https://lnkd.in/gM9_43pS
-
 Disclaimer:
 Data used for this project is a demo data, modified data and does not belong to any real time industry/ company/ government etc. Data used is only for practice purpose.
