@@ -1,6 +1,16 @@
 # Road accident dashboard
 Sharing My second Interactive excel project for Data Analyst/Catastrophic modeling analyst Role. The detail about the project are as follows :-
 
+![Screenshot 2023-10-12 124928](https://github.com/Dodamanisagar/Excel-project-2-Road-accident-dashboard/assets/99800998/a28fdb50-8131-457b-9ed0-fff3948c9ddd)
+
+
+
+
+
+
+
+
+
 ## REQUIREIMIENT:-
 Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insight on the below requirements-
 *Primary KPI's
